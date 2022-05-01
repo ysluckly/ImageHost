@@ -875,32 +875,32 @@
 }
 },
 {
-type: "Feature",
-properties: {
-adcode: 610200,
-name: "铜川市",
-center: [
+"type": "Feature",
+"properties": {
+"adcode": 610200,
+"name": "铜川市",
+"center": [
 108.979608,
 34.916582
 ],
-centroid: [
+"centroid": [
 109.038368,
 35.195996
 ],
-childrenNum: 4,
-level: "city",
-parent: {
-adcode: 610000
+"childrenNum": 4,
+"level": "city",
+"parent": {
+"adcode": 610000
 },
-subFeatureIndex: 1,
+"subFeatureIndex": 1,
 acroutes: [
 100000,
 610000
 ]
 },
-geometry: {
-type: "MultiPolygon",
-coordinates: [
+"geometry": {
+"type": "MultiPolygon",
+"coordinates": [
 [
 [
 [
@@ -1385,32 +1385,32 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-adcode: 610300,
-name: "宝鸡市",
-center: [
+"type": "Feature",
+"properties": {
+"adcode": 610300,
+"name": "宝鸡市",
+"center": [
 107.14487,
 34.369315
 ],
-centroid: [
+"centroid": [
 107.20523,
 34.380063
 ],
-childrenNum: 12,
-level: "city",
-parent: {
-adcode: 610000
+"childrenNum": 12,
+"level": "city",
+"parent": {
+"adcode": 610000
 },
-subFeatureIndex: 2,
+"subFeatureIndex": 2,
 acroutes: [
 100000,
 610000
 ]
 },
-geometry: {
-type: "MultiPolygon",
-coordinates: [
+"geometry": {
+"type": "MultiPolygon",
+"coordinates": [
 [
 [
 [
@@ -2515,32 +2515,32 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-adcode: 610400,
-name: "咸阳市",
-center: [
+"type": "Feature",
+"properties": {
+"adcode": 610400,
+"name": "咸阳市",
+"center": [
 108.705117,
 34.333439
 ],
-centroid: [
+"centroid": [
 108.394742,
 34.785825
 ],
-childrenNum: 14,
-level: "city",
-parent: {
-adcode: 610000
+"childrenNum": 14,
+"level": "city",
+"parent": {
+"adcode": 610000
 },
-subFeatureIndex: 3,
+"subFeatureIndex": 3,
 acroutes: [
 100000,
 610000
 ]
 },
-geometry: {
-type: "MultiPolygon",
-coordinates: [
+"geometry": {
+"type": "MultiPolygon",
+"coordinates": [
 [
 [
 [
@@ -3385,32 +3385,32 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-adcode: 610500,
-name: "渭南市",
-center: [
+"type": "Feature",
+"properties": {
+"adcode": 610500,
+"name": "渭南市",
+"center": [
 109.502882,
 34.499381
 ],
-centroid: [
+"centroid": [
 109.858722,
 34.952205
 ],
-childrenNum: 11,
-level: "city",
-parent: {
-adcode: 610000
+"childrenNum": 11,
+"level": "city",
+"parent": {
+"adcode": 610000
 },
-subFeatureIndex: 4,
+"subFeatureIndex": 4,
 acroutes: [
 100000,
 610000
 ]
 },
-geometry: {
-type: "MultiPolygon",
-coordinates: [
+"geometry": {
+"type": "MultiPolygon",
+"coordinates": [
 [
 [
 [
@@ -4335,32 +4335,32 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-adcode: 610600,
-name: "延安市",
-center: [
+"type": "Feature",
+"properties": {
+"adcode": 610600,
+"name": "延安市",
+"center": [
 109.49081,
 36.596537
 ],
-centroid: [
+"centroid": [
 109.319393,
 36.442397
 ],
-childrenNum: 13,
-level: "city",
-parent: {
-adcode: 610000
+"childrenNum": 13,
+"level": "city",
+"parent": {
+"adcode": 610000
 },
-subFeatureIndex: 5,
+"subFeatureIndex": 5,
 acroutes: [
 100000,
 610000
 ]
 },
-geometry: {
-type: "MultiPolygon",
-coordinates: [
+"geometry": {
+"type": "MultiPolygon",
+"coordinates": [
 [
 [
 [
@@ -6169,32 +6169,32 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-adcode: 610700,
-name: "汉中市",
-center: [
+"type": "Feature",
+"properties": {
+"adcode": 610700,
+"name": "汉中市",
+"center": [
 107.028621,
 33.077668
 ],
-centroid: [
+"centroid": [
 107.106717,
 33.090945
 ],
-childrenNum: 11,
-level: "city",
-parent: {
-adcode: 610000
+"childrenNum": 11,
+"level": "city",
+"parent": {
+"adcode": 610000
 },
-subFeatureIndex: 6,
+"subFeatureIndex": 6,
 acroutes: [
 100000,
 610000
 ]
 },
-geometry: {
-type: "MultiPolygon",
-coordinates: [
+"geometry": {
+"type": "MultiPolygon",
+"coordinates": [
 [
 [
 [
@@ -7663,32 +7663,32 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-adcode: 610800,
-name: "榆林市",
-center: [
+"type": "Feature",
+"properties": {
+"adcode": 610800,
+"name": "榆林市",
+"center": [
 109.741193,
 38.290162
 ],
-centroid: [
+"centroid": [
 109.577105,
 38.048207
 ],
-childrenNum: 12,
-level: "city",
-parent: {
-adcode: 610000
+"childrenNum": 12,
+"level": "city",
+"parent": {
+"adcode": 610000
 },
-subFeatureIndex: 7,
+"subFeatureIndex": 7,
 acroutes: [
 100000,
 610000
 ]
 },
-geometry: {
-type: "MultiPolygon",
-coordinates: [
+"geometry": {
+"type": "MultiPolygon",
+"coordinates": [
 [
 [
 [
@@ -9985,32 +9985,32 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-adcode: 610900,
-name: "安康市",
-center: [
+"type": "Feature",
+"properties": {
+"adcode": 610900,
+"name": "安康市",
+"center": [
 109.029273,
 32.6903
 ],
-centroid: [
+"centroid": [
 108.92998,
 32.75938
 ],
-childrenNum: 10,
-level: "city",
-parent: {
-adcode: 610000
+"childrenNum": 10,
+"level": "city",
+"parent": {
+"adcode": 610000
 },
-subFeatureIndex: 8,
+"subFeatureIndex": 8,
 acroutes: [
 100000,
 610000
 ]
 },
-geometry: {
-type: "MultiPolygon",
-coordinates: [
+"geometry": {
+"type": "MultiPolygon",
+"coordinates": [
 [
 [
 [
@@ -11223,32 +11223,32 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-adcode: 611000,
-name: "商洛市",
-center: [
+"type": "Feature",
+"properties": {
+"adcode": 611000,
+"name": "商洛市",
+"center": [
 109.939776,
 33.868319
 ],
-centroid: [
+"centroid": [
 109.906931,
 33.647685
 ],
-childrenNum: 7,
-level: "city",
-parent: {
-adcode: 610000
+"childrenNum": 7,
+"level": "city",
+"parent": {
+"adcode": 610000
 },
-subFeatureIndex: 9,
+"subFeatureIndex": 9,
 acroutes: [
 100000,
 610000
 ]
 },
-geometry: {
-type: "MultiPolygon",
-coordinates: [
+"geometry": {
+"type": "MultiPolygon",
+"coordinates": [
 [
 [
 [
