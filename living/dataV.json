@@ -1,32 +1,32 @@
-{type: "FeatureCollection",
-features: [
+{"type": "FeatureCollection",
+"features": [
 {
-type: "Feature",
-properties: {
-adcode: 610100,
-name: "西安市",
-center: [
+"type": "Feature",
+"properties": {
+"adcode": 610100,
+"name": "西安市",
+"center": [
 108.948024,
 34.263161
 ],
-centroid: [
+"centroid": [
 108.797236,
 34.106723
 ],
-childrenNum: 13,
-level: "city",
-parent: {
-adcode: 610000
+"childrenNum": 13,
+"level": "city",
+"parent": {
+"adcode": 610000
 },
-subFeatureIndex: 0,
-acroutes: [
+"subFeatureIndex": 0,
+"acroutes: [
 100000,
 610000
 ]
 },
-geometry: {
-type: "MultiPolygon",
-coordinates: [
+"geometry": {
+"type": "MultiPolygon",
+"coordinates": [
 [
 [
 [
